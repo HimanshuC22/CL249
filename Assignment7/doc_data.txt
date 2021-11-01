@@ -1,0 +1,27 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: Adobe Scan for Android 21.09.20-regular
+InfoBegin
+InfoKey: Producer
+InfoValue: Adobe Scan for Android 21.09.20-regular
+NumberOfPages: 4
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 553.3 792
+PageMediaDimensions: 553.3 792
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 563.7 792
+PageMediaDimensions: 563.7 792
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 550.3 792
+PageMediaDimensions: 550.3 792
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 584.9 792
+PageMediaDimensions: 584.9 792
